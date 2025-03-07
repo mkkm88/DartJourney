@@ -1,3 +1,5 @@
+// ignore_for_file: unused_local_variable
+
 literals() {
   // Literals
   var isCool = true;
