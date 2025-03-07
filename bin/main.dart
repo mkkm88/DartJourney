@@ -7,6 +7,6 @@ void main() {
   print('Hello buddy: ${hello_world.name()}');
   var result = dataType();
   print(
-      'Score: ${result.score}, Percentage: ${result.percentage}, Gender: ${result.gender}, Is Valid: ${result.isValid}');
+      'Score: ${result.score}, Percentage: ${result.percentage}, Gender: ${result.gender}, Is Valid: ${result.isValid}, Hex Value Is : ${result.hexValue}, Exponent Value Is: ${result.exponent}');
   // print('${data_types.dataType()}');
 }
