@@ -4,7 +4,7 @@ import 'package:dart_journey/hello_world.dart' as hello_world;
 
 void main() {
   print('Hello world: ${dart_journey.calculate()}!');
-  print('Hello There: ${hello_world.name()}');
+  print('Hello buddy: ${hello_world.name()}');
   var result = dataType();
   print(
       'Score: ${result.score}, Percentage: ${result.percentage}, Gender: ${result.gender}, Is Valid: ${result.isValid}');
